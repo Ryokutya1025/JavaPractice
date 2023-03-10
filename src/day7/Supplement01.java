@@ -16,7 +16,7 @@ public class Supplement01 {
 		h1.n = 3;
 		h2.foo();
 		
-		Hoge h = null;
+//		Hoge h = null;
 		
 //		h.n = 1;
 //		h.foo();
